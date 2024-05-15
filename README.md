@@ -3,11 +3,11 @@
 Выполнен в рамках обучения, webDesign Master
 
 Технологии проекта:
--HTML5,
--CSS3,
--SASS,
--Figma,
--PerfectPixel
+- HTML5
+- CSS3
+- SASS
+- Figma
+- PerfectPixel
 
 Особенности проекта:
 - Адаптивная верстка
